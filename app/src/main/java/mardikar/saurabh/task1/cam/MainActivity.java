@@ -88,7 +88,7 @@ public class MainActivity  extends Activity {
                 // TODO Auto-generated method stub
                 takePicture();
             }
-        }, 1000, 20000);
+        }, 1000, 10000);
     }
 
     public void recognize(){
